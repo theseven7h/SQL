@@ -1,0 +1,2 @@
+-- count checks the amount of rows that a table(or specified column) contains
+-- sum adds up every value together in a numeric column to get a final total 

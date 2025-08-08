@@ -1,0 +1,2 @@
+-- 'where' came before 'having', reason being that 'where' has to first determine the rows
+-- that would even qualify the groups, before the group can be used to determine the result
