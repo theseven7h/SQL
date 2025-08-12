@@ -1,0 +1,1 @@
+select * from item,shipment, shipment_item

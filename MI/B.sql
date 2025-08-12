@@ -1,0 +1,1 @@
+select  ShipmentID, ShipperName, ShipperInvoiceNumber from shipment
